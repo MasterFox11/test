@@ -1,0 +1,8 @@
+name: OITC
+version: 1.0
+author: foxy11
+main: otic.foxy11.me.Main
+commands:
+    oitc:
+        description: Main command for OITC
+        usage: /oitc <args> <args>
